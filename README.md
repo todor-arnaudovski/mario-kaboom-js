@@ -1,3 +1,3 @@
 # mario-kaboom-js
 
-Made using kaboom.js
+Simple Super Mario remake using kaboom.js
